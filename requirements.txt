@@ -1,1 +1,2 @@
-Hello, in order for this to run locally, you will need to install streamlit and openai
+streamlit
+openai
